@@ -10,4 +10,6 @@ function algoritmo()
     if(horas_trabajadas>48)
         salario=salario+(horas_trabajadas-48)*cantidad_horas;
     document.formulario1.salario.value = salario;
+
+    alert('deseas saber el resultado presiona aceptar....!');
 }
