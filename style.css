@@ -20,4 +20,5 @@ input{
 img{
     position: relative;
     left:600px;
+    border-radius: 8px;
 }
