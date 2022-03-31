@@ -1,0 +1,19 @@
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+label{
+    font-family: arial;
+}
+
+body{
+    background-color:cadetblue;
+}
+
+input{
+    width: 120px;
+    height:40px;
+    font-family: arial;
+    border-radius: 8px;
+    
+}
